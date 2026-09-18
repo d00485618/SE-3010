@@ -1,0 +1,1 @@
+module.exports = "A lot of people spend their whole lives wondering who they really are. For Victor, this existential question is made more complicated as he woke up on a mortuary table with no knowledge of his creator, why he was made, and whom he is made of.\r\n\r\nNow searching the five boroughs for answers, Victor is hoping to find someone who can identify any part of him.";

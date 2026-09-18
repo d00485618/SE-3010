@@ -1,0 +1,1 @@
+module.exports = "He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye.\r\n\r\nWhile he had only planned to experience life on this plane for a few weeks, The Doorman quickly discovered that the New York service industry was a great way to see the strange demands that please humans.";

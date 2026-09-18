@@ -1,0 +1,1 @@
+module.exports = "Billy is a white hot ball of rage, furious at the very notion of...something. Maybe it’s the cops. Maybe it’s magic regulations. Maybe it’s the service at the gyro place downtown. (Not the good one. The other one.)\r\n\r\nDon't ask him how he got the goat head.";

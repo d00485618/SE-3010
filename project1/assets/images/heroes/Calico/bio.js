@@ -1,0 +1,1 @@
+module.exports = "Once a decorated member of The Baxter Society, Calico left the august order once she realized that killing monsters for free was less profitable than killing people for money.\r\n\r\nNow an in demand contract killer, Calico is living her best life ending someone else's.";

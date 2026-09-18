@@ -1,0 +1,1 @@
+module.exports = "A loyal member of \"The Baxter Society\", an international order of monster hunters, Shiv travels across North America looking to put down creatures that prey on the living.\r\n\r\nWhile his less polished nature and criminal past make some of the more traditional members of the Society wary, no one can deny his effectiveness.";

@@ -1,0 +1,1 @@
+module.exports = "The cornerstone of the New York gambling scene, Wraith's organization is about as open a secret as it comes. However, thanks to a non-trivial amount of bribes, shakedowns, and blackmail, Wraith knows that she's above the law.";
