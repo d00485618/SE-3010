@@ -1,4 +1,5 @@
 criminal_intent_app README ---
+'''
 Packages installed:
 @react-native-community/datetimepicker
 @react-native-async-storage/async-storage
@@ -6,6 +7,7 @@ expo-checkbox
 expo-image-picker
 @expo/vector-icons
 expo-crypto
+'''
 ------------------------------
 PROJECT1 README -------------
 <img width="1750" height="1285" alt="image" src="https://github.com/user-attachments/assets/34e18a87-31b4-4aa6-8953-822782437cac" />
