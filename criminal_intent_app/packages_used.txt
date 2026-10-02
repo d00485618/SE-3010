@@ -1,0 +1,6 @@
+@react-native-community/datetimepicker
+@react-native-async-storage/async-storage
+expo-checkbox
+expo-image-picker
+@expo/vector-icons
+expo-crypto

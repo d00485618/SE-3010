@@ -1,0 +1,12 @@
+export { default as Header } from "./header";
+export { default as NewCrimeButton } from "./newCrimeButton";
+export { default as ReportedCrime } from "./reportedCrime";
+export { default as CrimeTitle } from "./crimeTitle";
+export { default as CrimeDetails } from "./crimeDetails";
+export { default as CrimeImage } from "./crimeImage";
+export { default as CrimeSolved } from "./crimeSolved";
+export { default as CrimeDate } from "./crimeDate";
+export { default as NewCrimeTitle } from "./newCrimeTitle";
+export { default as NewCrimeImage } from "./newCrimeImage";
+export { default as SettingsButton } from "./settingsButton";
+export { default as ThemeButton } from "./themeButton";
